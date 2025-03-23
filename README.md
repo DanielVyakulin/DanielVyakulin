@@ -8,4 +8,4 @@
 ![danielvyakulin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielvyakulin&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 ## Projects:
-![Vyakulin-UI](https://github.com/DanielVyakulin/vyakulin-ui) ![NPM Version](https://img.shields.io/npm/v/vyakulin-ui)
+![Vyakulin-UI](https://github.com/DanielVyakulin/vyakulin-ui) ![NPM Version](https://img.shields.io/npm/v/vyakulin-ui?logo=nextdotjs)
