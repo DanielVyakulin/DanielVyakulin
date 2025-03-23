@@ -1,5 +1,7 @@
-## Hi there 👋
+# Hello there
+
+### Technologies
 
 
 ### Projects:
-Vyakuli-ui ![NPM Last Update](https://img.shields.io/npm/last-update/vyakulin-ui)
+Vyakuli-ui ![NPM Version](https://img.shields.io/npm/v/vyakulin-ui)
